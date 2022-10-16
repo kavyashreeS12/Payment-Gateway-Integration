@@ -24,7 +24,7 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: #fff;
+  background: white;
   transition: all 0.5s;
   z-index: 997;
   padding: 4px 0;
@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo a span {
-  color: #1bbd36;
+  color: #95bd64;
 }
 
 #header .logo img {
@@ -90,7 +90,7 @@ h1, h2, h3, h4, h5, h6 {
   background: rgba(4, 4, 4, 0.7);
   padding: 20px;
   color: #fff;
-  border-top: 5px solid #1bbd36;
+  border-top: transparent ;
 }
 
 
@@ -116,6 +116,10 @@ h1, h2, h3, h4, h5, h6 {
 #hero .carousel-indicators li.active {
   opacity: 1;
   background: #1bbd36;
+}
+
+.foot{
+  
 }
 
 
